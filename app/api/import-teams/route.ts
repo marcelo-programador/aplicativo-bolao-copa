@@ -1,4 +1,3 @@
-/*
 // app/api/import-teams/route.ts (versão upsert)
 import { createClient } from '@supabase/supabase-js'
 import { NextResponse } from 'next/server'
@@ -51,4 +50,4 @@ export async function GET() {
       { status: 500 }
     );
   }
-}*/
+}
