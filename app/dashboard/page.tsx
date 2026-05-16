@@ -54,7 +54,7 @@ export default async function DashboardPage() {
       <div>
         <h1 className="text-3xl font-bold mb-2">Ola, {displayName}!</h1>
         <p className="text-muted-foreground">
-          Bem-vindo ao Bolao da Copa 2026. Confira suas estatisticas e faca seus palpites.
+          Bem-vindo ao Bolao do CEFET-MG Campus Leopoldina da copa do mundo de 2026. Confira suas estatisticas e faca seus palpites.
         </p>
       </div>
 
